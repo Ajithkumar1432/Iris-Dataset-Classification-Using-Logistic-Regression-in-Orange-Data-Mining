@@ -9,4 +9,7 @@ This project demonstrates a supervised machine learning workflow in Orange using
 - Iris Dataset
 
 
+<img width="1387" height="952" alt="Snap" src="https://github.com/user-attachments/assets/dc3f9ea7-e551-4849-ab55-a7302a3de91d" />
+
+
 
